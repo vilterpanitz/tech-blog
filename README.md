@@ -15,3 +15,4 @@ Enjoy yourself :)
 * https://codeascraft.com/
 * https://blog.twitter.com/engineering
 * http://engineeringblog.yelp.com/
+* http://instagram-engineering.tumblr.com/

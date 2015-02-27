@@ -17,5 +17,5 @@ Enjoy yourself :)
 * http://engineeringblog.yelp.com/
 * http://instagram-engineering.tumblr.com/
 * https://research.facebook.com/
-* http://aosabook.org/en/index.html (Tnks @cassiodias)
-* http://www.itexto.net/devkico/?p=1301 (Tnks @cassiodias)
+* http://aosabook.org/en/index.html (Tnks [@cassiodias](http://github.com/cassiodias))
+* http://www.itexto.net/devkico/?p=1301 (Tnks [@cassiodias](http://github.com/cassiodias))

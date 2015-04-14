@@ -19,3 +19,4 @@ Enjoy yourself :)
 * https://research.facebook.com/
 * http://aosabook.org/en/index.html (Tnks [@cassiodias](http://github.com/cassiodias))
 * http://www.itexto.net/devkico/?p=1301 (Tnks [@cassiodias](http://github.com/cassiodias))
+* http://youtube-global.blogspot.com.br/
